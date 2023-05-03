@@ -5,9 +5,15 @@ You can find the style picture in each model directory.
 To load the models, use the `RunStyleNetworks.ipynb` notebook.  
 
 ---
-![风格图片](https://github.com/Starslayerx/FastStyleTransfer/tree/main/images/style/rain_princess.jpg)
-![内容图片](https://github.com/Starslayerx/FastStyleTransfer/tree/main/images/content/wit1.jpg)
-![结果图片](https://github.com/Starslayerx/FastStyleTransfer/tree/main/images/output/rseult.jpg)
+风格图像
+![风格图片](./images/style/rain_princess.jpg)
+
+内容图像
+![内容图片](./images/content/wit1.jpg)
+
+生成结果
+![结果图片](./images/output/rseult.png)
+
 ---
 
 [Reference Paper](https://arxiv.org/abs/1603.08155)
