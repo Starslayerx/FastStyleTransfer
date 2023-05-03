@@ -1,6 +1,6 @@
 # FastStyleTransfer
 
-FastStyleTransfer models, saveed under `scream` directory.  
+FastStyleTransfer models, saved under `scream` directory.  
 You can find the style picture in each model directory.  
 To load the models, use the `RunStyleNetworks.ipynb` notebook.  
 
